@@ -17,32 +17,31 @@ To get started with the ISearch frontend, follow these steps:
    npm start
 
 ## Features
-Fast and efficient search functionality.
-User-friendly interface.
-Support for advanced search operators.
-Real-time search results.
-Customizable search preferences.
-Responsive design for various devices.
-[Add more features here]
-Technologies Used
-React: A popular JavaScript library for building user interfaces.
-Redux: A state management library for managing application state.
-Axios: A promise-based HTTP client for making requests to your backend.
-Sass: A CSS extension language for more powerful styles.
-Bootstrap: A CSS framework for responsive design.
-Elasticsearch: The search engine backend.
-Docker: For containerization.
-[Add other technologies used]
-Contributing
+- Fast and efficient search functionality.
+- User-friendly interface.
+- Support for advanced search operators.
+- Real-time search results.
+- Customizable search preferences.
+- Responsive design for various devices.
+- [Add more features here]
+## Technologies Used
+- React: A popular JavaScript library for building user interfaces.
+- Redux: A state management library for managing application state.
+- Axios: A promise-based HTTP client for making requests to your backend.
+- Bootstrap: A CSS framework for responsive design.
+- Elasticsearch: The search engine backend.
+- Docker: For containerization.
+- [Add other technologies used]
+## Contributing
 We welcome contributions from the open-source community. If you'd like to contribute to ISearch, please follow our Contributing Guidelines.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+### Contact
 For questions or feedback, you can reach us at [jetonsllamniku@gmail.com].
 
-Acknowledgments
+### Acknowledgments
 Special thanks to the open-source community for their contributions.
 We are grateful for the support of [mention any libraries, tools, or individuals you'd like to acknowledge].
 Happy searching!
