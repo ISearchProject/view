@@ -1,6 +1,6 @@
-# view
+
 The frontend part of the ISearch search engine.
-# ISearch Frontend
+# ISearch Frontend 
 
 Welcome to the frontend of the ISearch search engine project. ISearch is a powerful and user-friendly search engine designed to make searching in the web a breeze.
 
